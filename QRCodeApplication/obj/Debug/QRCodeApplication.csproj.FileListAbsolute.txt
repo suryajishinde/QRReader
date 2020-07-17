@@ -1,0 +1,68 @@
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\csc.exe
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\vbc.exe
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\QRCodeApplication.dll.config
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\QRCodeApplication.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\QRCodeApplication.pdb
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Newtonsoft.Json.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\System.Net.Http.Formatting.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.WebHost.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\zxing.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\zxing.presentation.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Newtonsoft.Json.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\System.Net.Http.Formatting.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.WebHost.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\zxing.pdb
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\zxing.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\zxing.presentation.pdb
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\zxing.presentation.xml
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.csprojResolveAssemblyReference.cache
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.dll
+c:\users\admin\Documents\Visual Studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.pdb
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\QRCodeApplication.dll.config
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\QRCodeApplication.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\QRCodeApplication.pdb
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\zxing.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\zxing.presentation.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\zxing.pdb
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\zxing.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\zxing.presentation.pdb
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\bin\zxing.presentation.xml
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.dll
+C:\Users\Admin\OneDrive\Desktop\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.pdb
